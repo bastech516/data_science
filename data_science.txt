@@ -1,1 +1,2 @@
 Hello, welcome to data science class of advanced careers.
+My name is Emeka Obika
